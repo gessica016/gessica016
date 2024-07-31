@@ -1,16 +1,16 @@
-## Hi there 👋
+## sejam bem-vindos:hea💟
 
-<!--
-**gessica016/gessica016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é GÈSSICA
+-estou estudando na Alura
+-estou me desenvolvendo no java script
+-utilizo esse espacço para meus projetos
+você pode entra em cotato comigo📧
 
-Here are some ideas to get you started:
+00001130323201sp@aluno.educacao.sp.gov.sp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+         
+  
+  
+  
+  
+
